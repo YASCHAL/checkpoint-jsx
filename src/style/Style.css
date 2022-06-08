@@ -1,0 +1,24 @@
+div {
+    border:solid 1px black;
+    max-width:100vw;
+}
+.title {
+    display : flex;
+    justify-content: center;
+}
+.red {
+    color: red;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+.img {
+    display: flex;
+    justify-content: center;
+}
+#video {
+    display: flex;
+    justify-content: center;
+}
